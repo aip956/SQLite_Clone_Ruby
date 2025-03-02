@@ -23,3 +23,5 @@ end
 # https://app.codecrafters.io/courses/sqlite/stages/2?repo=157b89f6-e6e3-4e4a-a89a-2e8e4e4884c7
 # git push origin main to push to codecrafters
 # git push github master
+# Run test from the project folder directory
+# git push from the folder directory
